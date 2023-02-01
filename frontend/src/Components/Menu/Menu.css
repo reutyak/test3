@@ -1,0 +1,10 @@
+.Menu {
+    text-align: center;
+    margin: 10%;
+    text-decoration-line: initial;
+    
+}
+
+.Menu > div{
+    margin-bottom: 100px;
+}
